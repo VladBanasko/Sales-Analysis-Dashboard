@@ -13,7 +13,7 @@ Questions answered :
 Data Source: Data set form open source https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data
 
 Key Insights: 
-1.Tables sub-category loses money. $207K in sales but −$17.7K in profit — a −8.6% margin. Bookcases also lose money at −3.0%. Furniture as a whole is the weakest category.
+<br>1.Tables sub-category loses money. $207K in sales but −$17.7K in profit — a −8.6% margin. Bookcases also lose money at −3.0%. Furniture as a whole is the weakest category.
 
 2.Discounts over 20% are toxic. Orders with 30%+ discount produce a −48.2% margin, destroying $125K in profit. Zero-discount orders hold a healthy 29.5% margin.
 
