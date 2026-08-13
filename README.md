@@ -37,6 +37,9 @@ Duplicates exsistance proof
 Checking for missing values
 <img width="662" height="400" alt="missing data" src="https://github.com/user-attachments/assets/ac0e4de1-0d20-471b-94d0-5f48c86ef013" />
 
+1.Which product categories and sub-categories are losing money, and by how much?
+<img width="946" height="948" alt="Y to Y dynamics Cats and sub Cats" src="https://github.com/user-attachments/assets/0e56effd-e6bf-464e-9c40-a7c3fd655352" />
+
 
 
 
