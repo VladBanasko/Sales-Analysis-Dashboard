@@ -3,12 +3,12 @@ Project Title: Sales Analysis Dashboard
 Business Problem: Why is overall profit margin only 12.5% despite $2.3M in revenue?
 
 Questions answered :
- 1 Which product categories and sub-categories are losing money, and by how much?
- 2 Is discounting helping sales volume, or is it actively destroying profit margin?
- 3 Which regions are underperforming in profitability — not just in revenue?
- 4 Which customer segment is most valuable to prioritize for growth?
- 5 What are the top products to promote and which ones should be reviewed or discontinued?
- 6 Is revenue growth translating into proportional profit growth year over year?
+ <br>1 Which product categories and sub-categories are losing money, and by how much?
+ <br>2 Is discounting helping sales volume, or is it actively destroying profit margin?
+ <br>3 Which regions are underperforming in profitability — not just in revenue?
+ <br>4 Which customer segment is most valuable to prioritize for growth?
+ <br>5 What are the top products to promote and which ones should be reviewed or discontinued?
+ <br>6 Is revenue growth translating into proportional profit growth year over year?
 
 Data Source: Data set form open source https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data
 
