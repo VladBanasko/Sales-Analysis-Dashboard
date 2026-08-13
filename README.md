@@ -13,17 +13,17 @@ Questions answered :
 Data Source: Data set form open source https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data
 
 Key Insights: 
-Tables sub-category loses money. $207K in sales but −$17.7K in profit — a −8.6% margin. Bookcases also lose money at −3.0%. Furniture as a whole is the weakest category.
+1.Tables sub-category loses money. $207K in sales but −$17.7K in profit — a −8.6% margin. Bookcases also lose money at −3.0%. Furniture as a whole is the weakest category.
 
-Discounts over 20% are toxic. Orders with 30%+ discount produce a −48.2% margin, destroying $125K in profit. Zero-discount orders hold a healthy 29.5% margin.
+2.Discounts over 20% are toxic. Orders with 30%+ discount produce a −48.2% margin, destroying $125K in profit. Zero-discount orders hold a healthy 29.5% margin.
 
-Central region is the weakest. Only 7.9% profit margin vs. West at 14.9%. Central generates $501K revenue but keeps just $39.7K — a $70K gap vs. the West on far higher revenue.
+3.Central region is the weakest. Only 7.9% profit margin vs. West at 14.9%. Central generates $501K revenue but keeps just $39.7K — a $70K gap vs. the West on far higher revenue.
 
-Copiers are the profit engine. 37.2% margin — the highest of any sub-category. The Canon imageCLASS 2200 alone generated $25.2K profit, making it the single best product in the dataset.
+4.Copiers are the profit engine. 37.2% margin — the highest of any sub-category. The Canon imageCLASS 2200 alone generated $25.2K profit, making it the single best product in the dataset.
 
-Home Office is most efficient. Smallest segment by revenue ($430K) but highest margin at 14.0%. Consumer segment is largest but least efficient at 11.5%.
+5.Home Office is most efficient. Smallest segment by revenue ($430K) but highest margin at 14.0%. Consumer segment is largest but least efficient at 11.5%.
 
-Revenue grows, margin stagnates. Revenue rose 52% from 2011 to 2014, but margin only moved from 10.2% to 12.7% — a sign that growth is not translating into proportional profit.
+6.Revenue grows, margin stagnates. Revenue rose 52% from 2011 to 2014, but margin only moved from 10.2% to 12.7% — a sign that growth is not translating into proportional profit.
 
 
 Query Previews: Use markdown code blocks to preview your top SQL functions directly on the page, like this:
