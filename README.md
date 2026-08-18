@@ -40,6 +40,12 @@ Checking for missing values
 1.Which product categories and sub-categories are losing money, and by how much?
 <img width="946" height="948" alt="Y to Y dynamics Cats and sub Cats" src="https://github.com/user-attachments/assets/0e56effd-e6bf-464e-9c40-a7c3fd655352" />
 
+2.Is discounting helping sales volume, or is it actively destroying profit margin?
+ Discount band data
+ <br>
+ <img width="619" height="530" alt="discount groups data" src="https://github.com/user-attachments/assets/f78fdc6f-e43d-4647-b15d-53a619f3cad0" />
+
+
 
 
 
