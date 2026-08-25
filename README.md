@@ -45,6 +45,7 @@ Checking for missing values
  Discount band data shows profits according different discount categories
  <br>
  <img width="619" height="530" alt="discount groups data" src="https://github.com/user-attachments/assets/f78fdc6f-e43d-4647-b15d-53a619f3cad0" />
+ <br>Discounting is not helping volume enough to compensate — it is actively destroying profit. The break-even is somewhere between 20–21%. Any discount above 20% costs the business money on every single order.
 
 
 
