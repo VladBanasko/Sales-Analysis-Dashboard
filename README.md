@@ -56,6 +56,10 @@ Checking for missing values<br>
 <h2>4 Which customer segment is most valuable to prioritize for growth?</h2><br>
 Profit by segment<br>
 <img width="1019" height="441" alt="profit by segment" src="https://github.com/user-attachments/assets/86c08c63-016c-4ba6-80a1-6301645c4c46" />
+<br>
+Profit by Category in Segment<br>
+<img width="695" height="487" alt="profit by segment and category" src="https://github.com/user-attachments/assets/36268094-c4f0-4e90-b41d-89279d42566a" />
+<br>
 
 
 
