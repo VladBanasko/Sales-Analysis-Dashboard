@@ -60,6 +60,9 @@ Profit by segment<br>
 Profit by Category in Segment<br>
 <img width="695" height="487" alt="profit by segment and category" src="https://github.com/user-attachments/assets/36268094-c4f0-4e90-b41d-89279d42566a" />
 <br>
+Profit by Sub-Categories <br>
+<img width="725" height="715" alt="Profit engine in Sub_categories" src="https://github.com/user-attachments/assets/104c684d-fe88-4ba4-9ddd-fe3337f140bf" />
+<br>
 
 
 
