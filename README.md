@@ -52,6 +52,11 @@ Checking for missing values<br>
  <br>
  <img width="686" height="479" alt="Profits margin by region" src="https://github.com/user-attachments/assets/d98d7944-332a-4fd5-bc1c-a455d970db21" />
  <br>Central is the outlier — it ranks 3rd in revenue but dead last in margin, nearly half the West's rate.
+ <br>
+<h2>4 Which customer segment is most valuable to prioritize for growth?</h2><br>
+Profit by segment<br>
+<img width="1019" height="441" alt="profit by segment" src="https://github.com/user-attachments/assets/86c08c63-016c-4ba6-80a1-6301645c4c46" />
+
 
 
 
