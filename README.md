@@ -63,6 +63,9 @@ Profit by Category in Segment<br>
 Profit by Sub-Categories <br>
 <img width="725" height="715" alt="Profit engine in Sub_categories" src="https://github.com/user-attachments/assets/104c684d-fe88-4ba4-9ddd-fe3337f140bf" />
 <br>
+Most profitable items<br>
+<img width="813" height="583" alt="most profitable item" src="https://github.com/user-attachments/assets/8d219a63-ae8a-4f20-901a-52d637b838a9" />
+<br>
 
 
 
