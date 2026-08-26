@@ -50,6 +50,7 @@ Checking for missing values
  <h2>3 Which regions are underperforming in profitability — not just in revenue?</h2>
  <br>
  <img width="686" height="479" alt="Profits margin by region" src="https://github.com/user-attachments/assets/d98d7944-332a-4fd5-bc1c-a455d970db21" />
+ <br>Central is the outlier — it ranks 3rd in revenue but dead last in margin, nearly half the West's rate.
 
 
 
