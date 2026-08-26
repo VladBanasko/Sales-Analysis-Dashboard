@@ -26,20 +26,21 @@ Key Insights:
 6.Revenue grows, margin stagnates. Revenue rose 52% from 2011 to 2014, but margin only moved from 10.2% to 12.7% — a sign that growth is not translating into proportional profit.
 
 
-Query Previews: Use markdown code blocks to preview your top SQL functions directly on the page, like this:
+Query Previews:
+<br>
 
-Duplicate search quarry 
+Duplicate search quarry <br>
 <img width="483" height="345" alt="Dublicates check" src="https://github.com/user-attachments/assets/25c016de-85ce-415d-8d5a-824b09bb8381" />
-
-Duplicates exsistance proof
+<br>
+Duplicates exsistance proof<br>
 <img width="643" height="243" alt="Duplicate proof1" src="https://github.com/user-attachments/assets/4d078253-f387-414a-9c21-37a758cf189c" />
-
+<br>
 Checking for missing values
 <img width="662" height="400" alt="missing data" src="https://github.com/user-attachments/assets/ac0e4de1-0d20-471b-94d0-5f48c86ef013" />
-
+<br>
 <h2>1.Which product categories and sub-categories are losing money, and by how much?</h2>
 <img width="946" height="948" alt="Y to Y dynamics Cats and sub Cats" src="https://github.com/user-attachments/assets/0e56effd-e6bf-464e-9c40-a7c3fd655352" />
-
+<br>
 <h2>2.Is discounting helping sales volume, or is it actively destroying profit margin?</h2>
 <br>
  Discount band data shows profits according different discount categories
