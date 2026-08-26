@@ -35,7 +35,7 @@ Duplicate search quarry <br>
 Duplicates exsistance proof<br>
 <img width="643" height="243" alt="Duplicate proof1" src="https://github.com/user-attachments/assets/4d078253-f387-414a-9c21-37a758cf189c" />
 <br>
-Checking for missing values
+Checking for missing values<br>
 <img width="662" height="400" alt="missing data" src="https://github.com/user-attachments/assets/ac0e4de1-0d20-471b-94d0-5f48c86ef013" />
 <br>
 <h2>1.Which product categories and sub-categories are losing money, and by how much?</h2>
