@@ -66,6 +66,12 @@ Profit by Sub-Categories <br>
 Most profitable items<br>
 <img width="813" height="583" alt="most profitable item" src="https://github.com/user-attachments/assets/8d219a63-ae8a-4f20-901a-52d637b838a9" />
 <br>
+<br>5 What are the top products to promote and which ones should be reviewed or discontinued?
+<br>top 10 high profit and high margin products
+<img width="691" height="600" alt="where to invest" src="https://github.com/user-attachments/assets/888f709a-aa66-44f0-a60b-905cd5360cd7" />
+<br> Least profitable products
+<br><img width="911" height="561" alt="discontinued products" src="https://github.com/user-attachments/assets/b1a02fed-c0e0-4520-82f3-d0bb050fa999" />
+
 
 
 
